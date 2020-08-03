@@ -12,3 +12,11 @@ body{
     font-size: 16px;
     color: aquamarine;
 }
+.second-header{
+    font-weight: 300;
+    font-size: 42px;;
+}
+.second-sub-header{
+    color: gray;
+    font-size: 21px;
+}
